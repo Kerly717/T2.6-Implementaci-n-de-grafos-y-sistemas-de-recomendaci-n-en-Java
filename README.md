@@ -8,10 +8,10 @@ Red de grupos de estudio: cada **estudiante es un vértice** y cada **conexión 
 
 | Integrante | GitHub | Rama | Responsabilidad |
 |---|---|---|---|
-| Rommel Gamboa | [@gamboarommel580-rgb](https://github.com/gamboarommel580-rgb) | `feature/grafo`, `feature/menu-integracion` | Nodos, grafo base, datos de prueba, menú e integración |
-| Esteban Manobanda | [@Esteban-EVIL](https://github.com/Esteban-EVIL) | `feature/crud-integridad` | Eliminar conexión, eliminar estudiante y validación de integridad |
-| Kerly Espinoza | [@kerlyespinoza298-dev](https://github.com/kerlyespinoza298-dev) | `feature/bfs-dfs` | Cola, pila, BFS y DFS con traza |
-| Gabriel Jijón | [@Gabriel143445](https://github.com/Gabriel143445) | `feature/recomendador` | Vecinos comunes, candidatos y ordenamiento |
+| Rommel Gamboa | [@gamboarommel580-rgb](https://github.com/gamboarommel580-rgb) | `feature/grafo` | Nodos, grafo base, datos de prueba, menú e integración |
+| Esteban Manobanda | [@Esteban-EVIL](https://github.com/Esteban-EVIL) | `feature/esteban-grafos-corregida` | Eliminar conexión, eliminar estudiante y validación de integridad |
+| Kerly Espinoza | [@kerlyespinoza298-dev](https://github.com/kerlyespinoza298-dev) | `feature/kerly-espinoza/bfs-dfs` | Cola, pila, BFS y DFS con traza |
+| Gabriel Jijón | [@Gabriel143445](https://github.com/Gabriel143445) | `feature/gabriel-jijon-recomendador` | Vecinos comunes, candidatos y ordenamiento |
 | Jonathan Tenorio | [@sr632252-crypto](https://github.com/sr632252-crypto) | `feature/componentes-pruebas` | Componentes conectados (reto), pruebas y casos de prueba |
 
 ## Requisitos funcionales
